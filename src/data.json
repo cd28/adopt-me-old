@@ -1,0 +1,1240 @@
+{
+  "animals": [
+    {
+      "id": 44895949,
+      "organization_id": "CA2509",
+      "url": "https://www.petfinder.com/rabbit/betty-44895949/ca/sacramento/sacramento-spca-ca2509/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Rabbit",
+      "species": "Rabbit",
+      "breeds": {
+        "primary": "Mini Rex",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Brown / Chocolate",
+        "secondary": "Tan",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Betty",
+      "description": "Hi my name is Betty and I am 1 year old.",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895949/1/?bust=1559843027&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895949/1/?bust=1559843027&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895949/1/?bust=1559843027&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895949/1/?bust=1559843027"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T17:44:29+0000",
+      "contact": {
+        "email": "adoptions@sspca.org",
+        "phone": "(916) 383-7387",
+        "address": {
+          "address1": "Sacramento SPCA",
+          "address2": "6201 Florin Perkins Road",
+          "city": "Sacramento",
+          "state": "CA",
+          "postcode": "95828",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44895949" },
+        "type": { "href": "/v2/types/rabbit" },
+        "organization": { "href": "/v2/organizations/ca2509" }
+      }
+    },
+    {
+      "id": 44895939,
+      "organization_id": "CA2509",
+      "url": "https://www.petfinder.com/rabbit/veronica-44895939/ca/sacramento/sacramento-spca-ca2509/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Rabbit",
+      "species": "Rabbit",
+      "breeds": {
+        "primary": "Mini Rex",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Blue / Gray",
+        "secondary": "Tan",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Veronica",
+      "description": "Hi my name is Veronica and I am 1 year old.",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895939/1/?bust=1559842868&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895939/1/?bust=1559842868&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895939/1/?bust=1559842868&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895939/1/?bust=1559842868"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T17:42:03+0000",
+      "contact": {
+        "email": "adoptions@sspca.org",
+        "phone": "(916) 383-7387",
+        "address": {
+          "address1": "Sacramento SPCA",
+          "address2": "6201 Florin Perkins Road",
+          "city": "Sacramento",
+          "state": "CA",
+          "postcode": "95828",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44895939" },
+        "type": { "href": "/v2/types/rabbit" },
+        "organization": { "href": "/v2/organizations/ca2509" }
+      }
+    },
+    {
+      "id": 44895854,
+      "organization_id": "CA2490",
+      "url": "https://www.petfinder.com/dog/beau-44895854/ca/davis/hearts-for-paws-rescue-ca2490/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Pit Bull Terrier",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Gray / Blue / Silver",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Beau",
+      "description": "Four month, gentle, sweet, adorable pupper looking for a forever-COMMITTED home. Humans with the time to dedicate to training, socialization,...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895854/2/?bust=1559841743&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895854/2/?bust=1559841743&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895854/2/?bust=1559841743&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895854/2/?bust=1559841743"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895854/1/?bust=1559841737&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895854/1/?bust=1559841737&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895854/1/?bust=1559841737&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895854/1/?bust=1559841737"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T17:22:42+0000",
+      "contact": {
+        "email": "info@heartsforpawsrescue.com",
+        "phone": "(530) 400-0330",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Davis",
+          "state": "CA",
+          "postcode": "95616",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44895854" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca2490" }
+      }
+    },
+    {
+      "id": 44895832,
+      "organization_id": "CA2490",
+      "url": "https://www.petfinder.com/dog/pepper-44895832/ca/davis/hearts-for-paws-rescue-ca2490/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Shiba Inu",
+        "secondary": "Staffordshire Bull Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Pepper",
+      "description": "etite Pepper Pants the pocket pibble/shiba inu mix is a sweet, happy, trainable, smart, and loyal girl.\n\nPepper is ready...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/3/?bust=1559841514&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/3/?bust=1559841514&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/3/?bust=1559841514&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/3/?bust=1559841514"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/1/?bust=1559841509&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/1/?bust=1559841509&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/1/?bust=1559841509&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/1/?bust=1559841509"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/2/?bust=1559841512&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/2/?bust=1559841512&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/2/?bust=1559841512&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/2/?bust=1559841512"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/4/?bust=1559841516&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/4/?bust=1559841516&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/4/?bust=1559841516&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895832/4/?bust=1559841516"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T17:19:03+0000",
+      "contact": {
+        "email": "info@heartsforpawsrescue.com",
+        "phone": "(530) 400-0330",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Davis",
+          "state": "CA",
+          "postcode": "95616",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44895832" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca2490" }
+      }
+    },
+    {
+      "id": 44895763,
+      "organization_id": "CA2490",
+      "url": "https://www.petfinder.com/dog/finn-44895763/ca/davis/hearts-for-paws-rescue-ca2490/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Shepherd",
+        "secondary": "Labrador Retriever",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": "Black", "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Finn",
+      "description": "Finn is a loving, obedient, playful but  underconfident 1 yr old Black Lab mix looking for an experienced home committed...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895763/1/?bust=1559840494&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895763/1/?bust=1559840494&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895763/1/?bust=1559840494&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895763/1/?bust=1559840494"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895763/2/?bust=1559840496&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895763/2/?bust=1559840496&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895763/2/?bust=1559840496&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895763/2/?bust=1559840496"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895763/4/?bust=1559840500&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895763/4/?bust=1559840500&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895763/4/?bust=1559840500&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895763/4/?bust=1559840500"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T17:02:49+0000",
+      "contact": {
+        "email": "info@heartsforpawsrescue.com",
+        "phone": "(530) 400-0330",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Davis",
+          "state": "CA",
+          "postcode": "95616",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44895763" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca2490" }
+      }
+    },
+    {
+      "id": 44895727,
+      "organization_id": "CA324",
+      "url": "https://www.petfinder.com/dog/millie-44895727/ca/manteca/city-of-manteca-animal-shelter-ca324/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Chihuahua",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": false,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Millie",
+      "description": null,
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895727/1/?bust=1559839647&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895727/1/?bust=1559839647&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895727/1/?bust=1559839647&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895727/1/?bust=1559839647"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T16:47:41+0000",
+      "contact": {
+        "email": "animalservices@ci.manteca.ca.us",
+        "phone": "(209) 456-8270",
+        "address": {
+          "address1": "115 E. Wetmore Street",
+          "address2": null,
+          "city": "Manteca",
+          "state": "CA",
+          "postcode": "95337",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44895727" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca324" }
+      }
+    },
+    {
+      "id": 44895681,
+      "organization_id": "CA2490",
+      "url": "https://www.petfinder.com/dog/chestnut-44895681/ca/davis/hearts-for-paws-rescue-ca2490/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Basenji",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Red / Chestnut / Orange",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Chestnut",
+      "description": "Chestnut is a sweet, happy, playful girl who loves to be held! She and her siblings are social, active, friendly,...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895681/1/?bust=1559839034&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895681/1/?bust=1559839034&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895681/1/?bust=1559839034&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895681/1/?bust=1559839034"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T16:44:31+0000",
+      "contact": {
+        "email": "info@heartsforpawsrescue.com",
+        "phone": "(530) 400-0330",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Davis",
+          "state": "CA",
+          "postcode": "95616",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44895681" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca2490" }
+      }
+    },
+    {
+      "id": 44895662,
+      "organization_id": "CA2490",
+      "url": "https://www.petfinder.com/dog/best-boy-buddy-44895662/ca/davis/hearts-for-paws-rescue-ca2490/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "American Staffordshire Terrier",
+        "secondary": "Pit Bull Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Gray / Blue / Silver",
+        "secondary": "White / Cream",
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": ["loving", "friendly"],
+      "name": "Best Boy Buddy",
+      "description": "Dog &amp; People Friendly, Crate trained, house trained, loves car rides, knows sit, and paw. \n\nWell-behaved, friendly Buddy will be...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895662/2/?bust=1559838690&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895662/2/?bust=1559838690&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895662/2/?bust=1559838690&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895662/2/?bust=1559838690"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895662/1/?bust=1559838681&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895662/1/?bust=1559838681&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895662/1/?bust=1559838681&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895662/1/?bust=1559838681"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895662/3/?bust=1559838693&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895662/3/?bust=1559838693&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895662/3/?bust=1559838693&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895662/3/?bust=1559838693"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T16:32:40+0000",
+      "contact": {
+        "email": "info@heartsforpawsrescue.com",
+        "phone": "(530) 400-0330",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Davis",
+          "state": "CA",
+          "postcode": "95616",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44895662" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca2490" }
+      }
+    },
+    {
+      "id": 44895615,
+      "organization_id": "CA2490",
+      "url": "https://www.petfinder.com/dog/happy-harley-44895615/ca/davis/hearts-for-paws-rescue-ca2490/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Hound",
+        "secondary": "Pit Bull Terrier",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "White / Cream",
+        "secondary": "Yellow / Tan / Blond / Fawn",
+        "tertiary": null
+      },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": "Medium",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Happy Harley",
+      "description": "Sweet Harley was raised by the same family since she was just a puppy. Due to a move/landlord restrictions they...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895615/1/?bust=1559837932&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895615/1/?bust=1559837932&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895615/1/?bust=1559837932&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895615/1/?bust=1559837932"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T16:20:04+0000",
+      "contact": {
+        "email": "info@heartsforpawsrescue.com",
+        "phone": "(530) 400-0330",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Davis",
+          "state": "CA",
+          "postcode": "95616",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44895615" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca2490" }
+      }
+    },
+    {
+      "id": 44895519,
+      "organization_id": "CA1901",
+      "url": "https://www.petfinder.com/dog/buddy-the-chamer-44895519/ca/citrus-heights/nevada-county-paws-ca1901/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Rat Terrier",
+        "secondary": "Chihuahua",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tricolor (Brown, Black, & White)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Male",
+      "size": "Small",
+      "coat": "Short",
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Buddy - The Chamer",
+      "description": "Buddy - The Darling Charmer \n\nLittle Buddy has had a rough start, he was found roaming the streets of LA...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895519/1/?bust=1559836982&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895519/1/?bust=1559836982&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895519/1/?bust=1559836982&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895519/1/?bust=1559836982"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T16:10:20+0000",
+      "contact": {
+        "email": "wagadoodlesac@yahoo.com",
+        "phone": null,
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Citrus Heights",
+          "state": "CA",
+          "postcode": "95610",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44895519" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca1901" }
+      }
+    },
+    {
+      "id": 44895367,
+      "organization_id": "CA1328",
+      "url": "https://www.petfinder.com/cat/nilla-44895367/ca/napa/whiskers-tails-and-ferals-ca1328/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Tuxedo",
+        "secondary": "Domestic Medium Hair",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Black & White / Tuxedo",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Adult",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": true
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": [],
+      "name": "Nilla",
+      "description": "Nilla super sweet soft as a bunny 1 year old that is s gorgeous lap kitty.",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895367/1/?bust=1559836358&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895367/1/?bust=1559836358&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895367/1/?bust=1559836358&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44895367/1/?bust=1559836358"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T15:18:12+0000",
+      "contact": {
+        "email": "wtfnapa@gmail.com",
+        "phone": "(707) 258-2287",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Napa",
+          "state": "CA",
+          "postcode": "94558",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44895367" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ca1328" }
+      }
+    },
+    {
+      "id": 44894789,
+      "organization_id": "CA1586",
+      "url": "https://www.petfinder.com/cat/cee-lo-green-44894789/ca/vacaville/cat-tales-rescue-ca1586/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Tabby",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Tabby (Orange / Red)",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Cee Lo Green",
+      "description": "Adoption Fees&amp;#10;$90 for kittens up to one year&amp;#10;$70 for cats over one year&amp;#10;&amp;#10;All cats have been:&amp;#10;&amp;#10;- Spayed/neutered&amp;#10;&amp;#10;-&amp;#10;FVRCP vaccinated&amp;#10;-&amp;#10;FeLV/FIV tested&amp;#10;-&amp;#10;Dewormed&amp;#10;-&amp;#10;Flea treated&amp;#10;-&amp;#10;Microchipped&amp;#10;Cee...",
+      "photos": [],
+      "status": "adoptable",
+      "published_at": "2019-06-06T14:59:47+0000",
+      "contact": {
+        "email": "catinfo@catalesrescue.org",
+        "phone": null,
+        "address": {
+          "address1": "P.O. Box 2",
+          "address2": null,
+          "city": "Vacaville",
+          "state": "CA",
+          "postcode": "95696",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44894789" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ca1586" }
+      }
+    },
+    {
+      "id": 44894786,
+      "organization_id": "CA1586",
+      "url": "https://www.petfinder.com/cat/kara-44894786/ca/vacaville/cat-tales-rescue-ca1586/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": "Black", "secondary": null, "tertiary": null },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": [],
+      "name": "Kara",
+      "description": "Adoption Fees&amp;#10;$90 for kittens up to one year&amp;#10;$70 for cats over one year&amp;#10;&amp;#10;All cats have been:&amp;#10;&amp;#10;- Spayed/neutered&amp;#10;&amp;#10;-&amp;#10;FVRCP vaccinated&amp;#10;-&amp;#10;FeLV/FIV tested&amp;#10;-&amp;#10;Dewormed&amp;#10;-&amp;#10;Flea treated&amp;#10;-&amp;#10;Microchipped&amp;#10;Litter...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894786/1/?bust=1559837528&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894786/1/?bust=1559837528&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894786/1/?bust=1559837528&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894786/1/?bust=1559837528"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T14:59:47+0000",
+      "contact": {
+        "email": "catinfo@catalesrescue.org",
+        "phone": null,
+        "address": {
+          "address1": "P.O. Box 2",
+          "address2": null,
+          "city": "Vacaville",
+          "state": "CA",
+          "postcode": "95696",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44894786" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ca1586" }
+      }
+    },
+    {
+      "id": 44894788,
+      "organization_id": "CA1586",
+      "url": "https://www.petfinder.com/cat/kalli-44894788/ca/vacaville/cat-tales-rescue-ca1586/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": [],
+      "name": "Kalli",
+      "description": "Adoption Fees&amp;#10;$90 for kittens up to one year&amp;#10;$70 for cats over one year&amp;#10;&amp;#10;All cats have been:&amp;#10;&amp;#10;- Spayed/neutered&amp;#10;&amp;#10;-&amp;#10;FVRCP vaccinated&amp;#10;-&amp;#10;FeLV/FIV tested&amp;#10;-&amp;#10;Dewormed&amp;#10;-&amp;#10;Flea treated&amp;#10;-&amp;#10;Microchipped&amp;#10;Litter...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894788/1/?bust=1559837528&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894788/1/?bust=1559837528&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894788/1/?bust=1559837528&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894788/1/?bust=1559837528"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T14:59:47+0000",
+      "contact": {
+        "email": "catinfo@catalesrescue.org",
+        "phone": null,
+        "address": {
+          "address1": "P.O. Box 2",
+          "address2": null,
+          "city": "Vacaville",
+          "state": "CA",
+          "postcode": "95696",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44894788" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ca1586" }
+      }
+    },
+    {
+      "id": 44894785,
+      "organization_id": "CA1586",
+      "url": "https://www.petfinder.com/cat/kandy-44894785/ca/vacaville/cat-tales-rescue-ca1586/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": "Black", "secondary": null, "tertiary": null },
+      "age": "Baby",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": [],
+      "name": "Kandy",
+      "description": "Adoption Fees&amp;#10;$90 for kittens up to one year&amp;#10;$70 for cats over one year&amp;#10;&amp;#10;All cats have been:&amp;#10;&amp;#10;- Spayed/neutered&amp;#10;&amp;#10;-&amp;#10;FVRCP vaccinated&amp;#10;-&amp;#10;FeLV/FIV tested&amp;#10;-&amp;#10;Dewormed&amp;#10;-&amp;#10;Flea treated&amp;#10;-&amp;#10;Microchipped&amp;#10;Litter...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894785/1/?bust=1559837529&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894785/1/?bust=1559837529&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894785/1/?bust=1559837529&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894785/1/?bust=1559837529"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T14:59:47+0000",
+      "contact": {
+        "email": "catinfo@catalesrescue.org",
+        "phone": null,
+        "address": {
+          "address1": "P.O. Box 2",
+          "address2": null,
+          "city": "Vacaville",
+          "state": "CA",
+          "postcode": "95696",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44894785" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ca1586" }
+      }
+    },
+    {
+      "id": 44894784,
+      "organization_id": "CA1586",
+      "url": "https://www.petfinder.com/cat/opal-44894784/ca/vacaville/cat-tales-rescue-ca1586/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Short Hair",
+        "secondary": "Siamese",
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": {
+        "primary": "Buff / Tan / Fawn",
+        "secondary": null,
+        "tertiary": null
+      },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": null, "dogs": null, "cats": null },
+      "tags": [],
+      "name": "Opal",
+      "description": "Adoption Fees&amp;#10;$90 for kittens up to one year&amp;#10;$70 for cats over one year&amp;#10;&amp;#10;All cats have been:&amp;#10;&amp;#10;- Spayed/neutered&amp;#10;&amp;#10;-&amp;#10;FVRCP vaccinated&amp;#10;-&amp;#10;FeLV/FIV tested&amp;#10;-&amp;#10;Dewormed&amp;#10;-&amp;#10;Flea treated&amp;#10;-&amp;#10;Microchipped&amp;#10;born...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894784/1/?bust=1559837530&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894784/1/?bust=1559837530&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894784/1/?bust=1559837530&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894784/1/?bust=1559837530"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T14:59:47+0000",
+      "contact": {
+        "email": "catinfo@catalesrescue.org",
+        "phone": null,
+        "address": {
+          "address1": "P.O. Box 2",
+          "address2": null,
+          "city": "Vacaville",
+          "state": "CA",
+          "postcode": "95696",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44894784" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ca1586" }
+      }
+    },
+    {
+      "id": 44894787,
+      "organization_id": "CA1586",
+      "url": "https://www.petfinder.com/cat/axel-44894787/ca/vacaville/cat-tales-rescue-ca1586/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Cat",
+      "species": "Cat",
+      "breeds": {
+        "primary": "Domestic Medium Hair",
+        "secondary": null,
+        "mixed": true,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Baby",
+      "gender": "Male",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": false,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": true, "dogs": true, "cats": true },
+      "tags": [],
+      "name": "Axel",
+      "description": "Adoption Fees&amp;#10;$90 for kittens up to one year&amp;#10;$70 for cats over one year&amp;#10;&amp;#10;All cats have been:&amp;#10;&amp;#10;- Spayed/neutered&amp;#10;&amp;#10;-&amp;#10;FVRCP vaccinated&amp;#10;-&amp;#10;FeLV/FIV tested&amp;#10;-&amp;#10;Dewormed&amp;#10;-&amp;#10;Flea treated&amp;#10;-&amp;#10;Microchipped&amp;#10;Adoptions...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894787/1/?bust=1559837530&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894787/1/?bust=1559837530&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894787/1/?bust=1559837530&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894787/1/?bust=1559837530"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T14:59:47+0000",
+      "contact": {
+        "email": "catinfo@catalesrescue.org",
+        "phone": null,
+        "address": {
+          "address1": "P.O. Box 2",
+          "address2": null,
+          "city": "Vacaville",
+          "state": "CA",
+          "postcode": "95696",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44894787" },
+        "type": { "href": "/v2/types/cat" },
+        "organization": { "href": "/v2/organizations/ca1586" }
+      }
+    },
+    {
+      "id": 44894595,
+      "organization_id": "CA1971",
+      "url": "https://www.petfinder.com/dog/emma-44894595/ca/alameda/west-coast-boxer-rescue-ca1971/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Boxer",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Medium",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": true, "dogs": null, "cats": false },
+      "tags": [],
+      "name": "Emma",
+      "description": "Introducing Emma. Emma is an little girl rescued from Baldwin Park Animal shelter when she was found as a stray....",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894595/1/?bust=1559841424&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894595/1/?bust=1559841424&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894595/1/?bust=1559841424&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894595/1/?bust=1559841424"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T14:55:32+0000",
+      "contact": {
+        "email": "pf@westcoastboxerrescue.org",
+        "phone": "510-255-1825  ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Alameda",
+          "state": "CA",
+          "postcode": "94501",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44894595" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca1971" }
+      }
+    },
+    {
+      "id": 44894594,
+      "organization_id": "CA1971",
+      "url": "https://www.petfinder.com/dog/timothy-44894594/ca/alameda/west-coast-boxer-rescue-ca1971/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Boxer",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Male",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": false,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": true, "dogs": true, "cats": null },
+      "tags": [],
+      "name": "Timothy",
+      "description": "Introducing Timothy. What a cutie patootie boy! Tiny Timmy was rescued from Palmdale Animal Shelter where he had been found...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894594/1/?bust=1559841427&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894594/1/?bust=1559841427&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894594/1/?bust=1559841427&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894594/1/?bust=1559841427"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894594/2/?bust=1559841430&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894594/2/?bust=1559841430&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894594/2/?bust=1559841430&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894594/2/?bust=1559841430"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894594/3/?bust=1559841433&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894594/3/?bust=1559841433&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894594/3/?bust=1559841433&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894594/3/?bust=1559841433"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T14:55:32+0000",
+      "contact": {
+        "email": "pf@westcoastboxerrescue.org",
+        "phone": "510-255-1825  ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Alameda",
+          "state": "CA",
+          "postcode": "94501",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44894594" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca1971" }
+      }
+    },
+    {
+      "id": 44894593,
+      "organization_id": "CA1971",
+      "url": "https://www.petfinder.com/dog/zoey-and-ceasar-the-dynamic-duo-44894593/ca/alameda/west-coast-boxer-rescue-ca1971/?referrer_id=44e48166-8259-4b23-8420-bbd2dc9c2079",
+      "type": "Dog",
+      "species": "Dog",
+      "breeds": {
+        "primary": "Boxer",
+        "secondary": null,
+        "mixed": false,
+        "unknown": false
+      },
+      "colors": { "primary": null, "secondary": null, "tertiary": null },
+      "age": "Young",
+      "gender": "Female",
+      "size": "Large",
+      "coat": null,
+      "attributes": {
+        "spayed_neutered": true,
+        "house_trained": true,
+        "declawed": null,
+        "special_needs": false,
+        "shots_current": false
+      },
+      "environment": { "children": true, "dogs": true, "cats": false },
+      "tags": [],
+      "name": "Zoey & Ceasar: The Dynamic Duo!",
+      "description": "Introducing The Dynamic Duo! Zoey and her brother, Caesar, came to us from their owners, who had too many dogs...",
+      "photos": [
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894593/1/?bust=1559841427&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894593/1/?bust=1559841427&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894593/1/?bust=1559841427&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894593/1/?bust=1559841427"
+        },
+        {
+          "small": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894593/2/?bust=1559841431&width=100",
+          "medium": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894593/2/?bust=1559841431&width=300",
+          "large": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894593/2/?bust=1559841431&width=600",
+          "full": "https://dl5zpyw5k3jeb.cloudfront.net/photos/pets/44894593/2/?bust=1559841431"
+        }
+      ],
+      "status": "adoptable",
+      "published_at": "2019-06-06T14:55:32+0000",
+      "contact": {
+        "email": "pf@westcoastboxerrescue.org",
+        "phone": "510-255-1825  ",
+        "address": {
+          "address1": null,
+          "address2": null,
+          "city": "Alameda",
+          "state": "CA",
+          "postcode": "94501",
+          "country": "US"
+        }
+      },
+      "_links": {
+        "self": { "href": "/v2/animals/44894593" },
+        "type": { "href": "/v2/types/dog" },
+        "organization": { "href": "/v2/organizations/ca1971" }
+      }
+    }
+  ],
+  "pagination": {
+    "count_per_page": 20,
+    "total_count": 182007,
+    "current_page": 1,
+    "total_pages": 9101,
+    "_links": {
+      "next": { "href": "/v2/animals?location=San%20Francisco%2C%20CA&page=2" }
+    }
+  }
+}
